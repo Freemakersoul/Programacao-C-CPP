@@ -11,7 +11,7 @@ int main() {
     cin >> idade;
     cout << "Introduza a sua altura: "<< endl;
     cin >> altura;
-    cout << endl << "A sua idade e' " << idade << " e a sua altura e' " << altura << "m"; 
+    cout << endl << "A sua idade e' " << idade << " anos e a sua altura e' " << altura << "m"; 
 
     return 0;
 }
